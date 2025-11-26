@@ -1,4 +1,4 @@
-# 🚀 Wick Magic – The Most Advanced Gunbot Strategy Ever Built  
+# 🚀 Wick Magic – Sharpshooter Trading Strategy
 ### *Precision. Automation. Profitability.*
 
 Wick Magic is a next-generation **sniper trading strategy** engineered for Gunbot users who demand **accuracy, risk control and consistent profitability**.  
