@@ -1,6 +1,8 @@
 # 🚀 Wick Magic – Sharpshooter Trading Strategy
 ### *Precision. Automation. Profitability.*
 
+**Current version: v2.9.v33**
+
 Wick Magic is a next-generation **sniper trading strategy** engineered for Gunbot users who demand **accuracy, risk control and consistent profitability**.  
 Unlike traditional indicator-based systems, Wick Magic reads the **real structure of the market** — not lagging noise — and executes with surgical precision.
 
@@ -11,6 +13,8 @@ Built by advanced traders and developers, it integrates:
 - **Dynamic DCA control** with cooldowns, freeze zones and zone-based safety  
 - **Elastic trailing** that dynamically tightens or loosens based on volatility  
 - **Smart Capital Management** to prevent over-exposure and protect account health  
+- **Kill Position** hard stop loss for the full bag, by USD or %  
+- **Compound Profits** that grow your Trade Size with your real return on capital  
 - **FGI Mimix Scaling** — invest more during fear, scale down during greed  
 - **Real-time chart overlays & contextual logs** for total transparency  
 - **Full GUI configuration** with user-friendly parameters and guards  
@@ -74,7 +78,7 @@ Choose Wick Magic if you want a strategy that:
 - Avoids bad trades instead of fixing them later  
 - Recovers positions logically with partial-sell intelligence  
 - Controls exposure better than traditional DCA bots  
-- Trailes profit using volatility-aware logic  
+- Trailing profit using volatility-aware logic  
 - Uses sentiment-based capital scaling  
 - Displays every action clearly on your chart  
 
@@ -92,5 +96,4 @@ https://www.gunbot.com/devcommunity/wickmagic
 👉 **Join the Telegram community:**  
 https://t.me/+pztaQ-2x7ZFmNDc0
 
-Just tell me what you need.
 
